@@ -20,7 +20,7 @@ pnpm dev
 ## Running the tests
 
 - `pnpm dev` - an initial build is required to build the dist folder. You need to run this command at least once.
-- `pnpm dev:ember` and then navigate to `/tests`
+- `pnpm dev:ember` and then navigate to `https://localhost:7200/tests`
 
 ## Running the docs
 
